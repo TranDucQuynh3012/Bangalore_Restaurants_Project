@@ -96,7 +96,37 @@ We will take a quick look at the restaurants which accept booking table and do n
 
 *What we see here is the overwhelming of the restaurant that not accept booking table. This is easy to understand because the restaurants accpept their guests booking the table before a meal are the luxury or very high quality restaurant. That why they just obtain 14.8% in total restaurant in Bangalore (We  will ensure this insight in the next steps of this analysing), they are not very polular with the people here because it is hard for normal people to afford a meal from those restaurants. But the number 14.8 % of luxury restaurant in Bangalore is not a small number. That means if you want to have a luxury and high quality meal, you have many choices in Bangalore. And if you don't have much money, there are 37.100 restaurants out there could satisfy your demand.*
 
+**5. What are the most popular restaurant types in Bangalore?**
 
+There are many types of restaurant in Bangalore such as Casual Dining, Bakery, Bar, Beverage Shop... And what we will find out here are the most popular ones in Bangalore. Because the popular of restaurant types reflect how the habit in choosing food of citizen here. Do they usually use Indian traditional restaurants for meals? Or they will choose fast food restaurants instead? Let take a look at this chart below:
+
+![alt text]()
+
+*With this chart, we can reaffirm the insight we have in the first question. That the quick bites, casual dining and cafe are the most popular types of restaurants here. They are the restaurants where provide popular foods such as fast foods, pizza, burger or Indian traditional foods... which are very similar with the people. This is why a foreign will feel it easy to find a suitable restaurant here, because there are variety types of food and many of them are popular worldwide.*
+
+**6. Which restaurants have the highest vote in Bangalore?**
+
+When a customer leave a vote for a restaurant, they give it a rate poin and sometimes there is a comment. Voting is the best way for a customer express their oppinion about restaurant services by an app. And from that, all the other can see how their experiment is so they can decide to have a meal in that restaurant or not. If a restaurant has a lot of votes, it means that restaurant are well-known by the people. The customers really care about it and it is easy to get more information of this restaurant online. Here are 10 restaurants have the highest number of vote on Zomato app:
+
+![alt text]()
+
+*The work I should do here is suggest my client to download Zomato app and read the comments of customers to these 10 restaurant. He will have high potential of finding out which is the best restaurants that suitable for him*
+
+**7. Which location have the largest  number of restaurants in Bangalore?**
+
+I may be given this question if my client is guy who have hobby of exploration. He want to try as many restaurants as he can, so he will find out which one is the best himself. My work become sipmle now. What I do is showing him the locations in Bangalore which most of the restaurants were placed there. Here is what I got from the dataset:
+
+![alt text]()
+
+I will also give him a heatmap, so he can find those location on Bangalore geography map easily:
+
+![alt text]()
+
+*Look at the map and we can see most of the restaurants located in the central and the north of Bangalore (Bengaluru). That might be those place are where most of the citizen live or most of the company, school, market... are placed. The most shiny heat on the map is BTM Layout, which have the largest number of restaurant.*
+
+**8. How is the prices (for two people) of the restaurants in Bangalore?**
+
+After the quality of the restaurant, the price of it is the second problem we should concern. In this dataset, we have the approximate cost for two people for a meal, so we will use this data to 
 
 
 
