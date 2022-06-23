@@ -162,9 +162,9 @@ A restaurant that is considered affordable for my client must have a price of le
 
 *Look like we have a winner here. BTM Layout is not only the location have the most restaurants but also the location have the largest number of most affordable restaurants. Suggesting my client to find an apartment to live in this location is a good idea.*
 
-We still have more data in the Zomato dataset to analyse but in my opinion, answering these 10 questions is enough to help my client, a foreign programmer, know more about the restaurants and find suitable restaurants for him in Bangalore. There still are many things he has to do before the final decision of moving to Bangalore to live or not, but I believe ‘ A meal in Bangalore’ is not his problem anymore.
+We still have more data in the Zomato dataset to analyse but in my opinion, answering these 10 questions is enough to help my client, a foreign programmer, know more about the restaurants and find suitable restaurants for him in Bangalore. There still are many things he has to do before the final decision of moving to Bangalore to live or not, but I believe ‘A meal in Bangalore’ is not his problem anymore.
 
-I hope you enjoy this Zomato Restaurant Data Analysing Project and may this project can help you a little in your research or learning.
+I hope you enjoy this Zomato Restaurant Data Analysing Project and may this project help you a little with your research or learning.
 
 *Have a nice day!*
 
