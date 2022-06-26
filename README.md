@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/TranDucQuynh3012/Bangalore_Restaurants_Project/blob/main/Plot/PowerBirp.png)
+![alt text](https://github.com/TranDucQuynh3012/Bangalore_Restaurants_Project/blob/main/Plot/PowerBIrp.png)
 
 
 In this project, we have the data of most restaurants in Bangalore, which was collected by Zomato - an Indian multinational restaurant aggregator and food delivery company. Zomato also got an app called 'Zomato: Food Delivery & Dining' for finding information about restaurants and ordering food online in India. Because of that, I'll call it is Zomato dataset from now on.
